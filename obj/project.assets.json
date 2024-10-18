@@ -2861,11 +2861,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/rafael/DocumentosLinux/codeblox/Api/Api.csproj",
+      "projectUniqueName": "/media/rafael/DocumentosLinux/Test_loja/test_loja/Api_Descontrolada_loja/Api.csproj",
       "projectName": "Api",
-      "projectPath": "/media/rafael/DocumentosLinux/codeblox/Api/Api.csproj",
+      "projectPath": "/media/rafael/DocumentosLinux/Test_loja/test_loja/Api_Descontrolada_loja/Api.csproj",
       "packagesPath": "/home/rafael/.nuget/packages/",
-      "outputPath": "/media/rafael/DocumentosLinux/codeblox/Api/obj/",
+      "outputPath": "/media/rafael/DocumentosLinux/Test_loja/test_loja/Api_Descontrolada_loja/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/rafael/.nuget/NuGet/NuGet.Config"

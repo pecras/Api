@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "elhA5H7i2rRwhhu/FBzjeDrGkXwiGkBCpzZ92WSLORwwWVxyoH31JxrDuKmY+3FHXTDITufuSp308UEtUr1F5A==",
+  "dgSpecHash": "rodMJ4TXxgcXftx+esHUmZWjWSWkTFxzVIpj/ZWalDIQ1obDNTzpCnrAwNSiWuKD9ATLvWNVrSwXYvkrMNHDxA==",
   "success": true,
-  "projectFilePath": "/media/rafael/DocumentosLinux/codeblox/Api/Api.csproj",
+  "projectFilePath": "/media/rafael/DocumentosLinux/Test_loja/test_loja/Api_Descontrolada_loja/Api.csproj",
   "expectedPackageFiles": [
     "/home/rafael/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/rafael/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
